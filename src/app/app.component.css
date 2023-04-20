@@ -1,0 +1,17 @@
+.mat-card-insercao {
+    max-width: 300px;
+    background-color: rgb(186, 187, 187);
+    margin-top: 10px;
+    padding: 10px;
+  }
+  
+  .mat-form-principal {
+    margin-left: 5px;
+  }
+  
+  .mat-card-simples{
+    max-width: 300px;
+    background-color: rgb(149, 99, 241);
+    margin-top: 10px;
+  }
+  
