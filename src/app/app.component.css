@@ -1,17 +1,42 @@
 .mat-card-insercao {
-    max-width: 300px;
-    background-color: rgb(186, 187, 187);
-    margin-top: 10px;
-    padding: 10px;
-  }
-  
-  .mat-form-principal {
-    margin-left: 5px;
-  }
-  
-  .mat-card-simples{
-    max-width: 300px;
-    background-color: rgb(149, 99, 241);
-    margin-top: 10px;
-  }
-  
+  display: flex;
+  max-width: 300px;
+  background-color: rgb(255 255 255);
+  margin-top: 10px;
+  margin-left: 10px;
+  border: solid 2px rgb(120 130 253);
+
+}
+
+.mat-form-principal {
+  margin-left: 5px;
+}
+
+.mat-card-simples{
+  max-width: 300px;
+  background-color: rgb(255 255 255);
+  margin-top: 10px;
+  border: solid 2px rgb(120 130 253);
+  margin-left: 10px;
+
+}
+
+.ico{
+  height: 20px;
+}
+
+.btn{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row-reverse;
+  border: 1px solid rgb(120 130 253);
+  margin-left: 5px;
+  background-color: #3f51b5;
+  padding-top: 7px;
+  width: 100px;
+}
+
+.pcolor{
+  color: white;
+  margin-right: 7px;
+}

@@ -12,6 +12,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { FormsModule } from '@angular/forms';
 import { MatBadgeModule } from '@angular/material/badge';
 import { MatMenuModule } from '@angular/material/menu';
+import {MatButtonModule} from '@angular/material/button';
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import { MatMenuModule } from '@angular/material/menu';
     MatBadgeModule,
     MatIconModule,
     MatMenuModule,
-    
+    MatButtonModule
+
 
   ],
   providers: [],
